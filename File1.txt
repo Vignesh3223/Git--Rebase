@@ -1,3 +1,5 @@
 Hello, I am a commit on Master.
 
 Hey, I am commit on feature-1 branch.
+
+Hi , This is 2nd commit on Master
