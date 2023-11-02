@@ -7,3 +7,5 @@ Hey, I am commit on feature-1 branch.
 Hi , This is 2nd commit on Master
 
 This is a commit on feature-2 branch...
+
+Hello this is a commit for branch feature-3
